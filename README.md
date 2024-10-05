@@ -1,5 +1,7 @@
 # Calculadora de Partidas Rankeadas
 
+Desafio concluído com sucesso no DIO GTF Start 6! 🚀💪 Pronto para novos desafios e aprendizados!
+
 ## Descrição
 
 Este projeto implementa uma calculadora que determina o nível de um jogador em um jogo baseado na quantidade de vitórias e derrotas. O saldo de vitórias é calculado subtraindo as derrotas das vitórias, e o nível é determinado com base na quantidade de vitórias.
